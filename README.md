@@ -30,3 +30,9 @@ and how many seats are available in each branch.
 
 ## Built by
 Gauri Chandankar — Data Analyst Intern, Clustor Computing (Feb 2024 – Mar 2025)
+
+## Screenshots
+
+![Dashboard view 1](Dashboard.jpeg)
+
+![Dashboard view 2](Dashboard%201.jpeg)
